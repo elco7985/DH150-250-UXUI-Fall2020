@@ -33,7 +33,7 @@ Week    |       Topics      |   Activity+References      |   Assignments
 7       | [Prototyping](https://docs.google.com/presentation/d/1nBaAmRynXH2ga_5tfJBFwPwCQEnGIf09oJt1Q9_o-LM/edit?usp=sharing) | [LectureNote07](https://github.com/UX-UI-Design-Lab/DH150-wikis/wiki/LectureNote07:-High-Fidelity-Prototype) | [A07: High Fidelity Prototype(2 blue-highlighted)+](https://docs.google.com/document/d/1LltO1JjHY3sNvBx4Td5mKKoV5-ZhzHtby1V2-4lPnSo/edit?usp=sharing)
 8       | [Iterative Process](#) | [LectureNote08](https://github.com/UX-UI-Design-Lab/DH150-wikis/wiki/LectureNote08:-Iterative-Process--Evaluations) | [Extra Credit: Usabilty Testing](#)
 9       | [UX Portfolio](https://docs.google.com/presentation/d/1Db_THpHtLrG1aPdbeVjtdN65IbdqmRJEOICGHhH3_r0/edit?usp=sharing) | [LectureNote09](https://github.com/UX-UI-Design-Lab/DH150-wikis/wiki/LectureNote09:-web-documentation) | [A08: Pitch](https://docs.google.com/document/d/1mpoWvFlYYbBKdd1jH14gEwKGOi-H3TupgB4VlLTjx6M/edit?usp=sharing)
-10      | [Review](https://docs.google.com/presentation/d/1ml4GIGeRMcHNlJj0sz9MQpsJMb06UYmdnH0YaHifVRA/edit?usp=sharing) | [FinalProjectEvaluation](https://forms.gle/Zbafse63YBfNjEdo9) | [A09: Peer Review](https://docs.google.com/document/d/1TVe194HGjYE4HpVKa6Q5PNX3Zoz0tlcoDeTfWflQwEw/edit?usp=sharing)
+10      | [Review](https://docs.google.com/presentation/d/1ml4GIGeRMcHNlJj0sz9MQpsJMb06UYmdnH0YaHifVRA/edit?usp=sharing) | [FinalProjectEvaluation](#) | [A09: Peer Review](https://docs.google.com/document/d/1TVe194HGjYE4HpVKa6Q5PNX3Zoz0tlcoDeTfWflQwEw/edit?usp=sharing)
 
 ###### The assignment due is by the beginning of the next classtime unless it is marked with +. + marked assignments have two-weeks to work.
 
