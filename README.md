@@ -1,9 +1,7 @@
 # DH150+250-UXUI-Fall2020
 Advance Topics in Digital Humanities, UCLA, 2020Fall
 
-[Syllabus DH150](https://docs.google.com/document/d/1skAmw1iNI5pVmCh-9hTHyJ7lIU5Rcsk76KubNR1iNao/edit?usp=sharing)
-
-[Syllabus DH250](#)
+[Syllabus DH150](https://docs.google.com/document/d/1skAmw1iNI5pVmCh-9hTHyJ7lIU5Rcsk76KubNR1iNao/edit?usp=sharing) | [DH250](#)
 
 Contact Instructor: Dr. Sookie Cho (sookie at g dot ucla dot edu)
 
